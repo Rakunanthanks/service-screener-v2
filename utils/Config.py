@@ -10,7 +10,7 @@ class Config:
     }
 
     ADVISOR = {
-        'TITLE': 'Service Screener',
+        'TITLE': 'CadMonitor',
         'VERSION': '2.2.0',
         'LAST_UPDATE': '28-May-2024'
     }
